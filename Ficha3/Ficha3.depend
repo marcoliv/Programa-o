@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570706357 source:c:\users\2190748\desktop\programação\ficha3\exercicio2.c
+
+1570707187 source:c:\users\2190748\desktop\programação\ficha3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1570706568 source:c:\users\2190748\desktop\programação\ficha3\exercicio1.c
+	<stdio.h>
+	<stdlib.h>
+
